@@ -149,3 +149,5 @@ Finalmente, se muestran los precios y los diferentes descuentos en varios campos
 
 **Importante**: El envío de su proyecto es por plataforma campus virtual en formato .zip o .rar. Verifique que sus cambios
 realmente han sido guardados antes de crear el archivo comprimido. (**Buena Suerte!**)
+
+2. Se debe implementar el patron Strategy debido a que este patron modifica el algoritmo sin cambiar en su totalidad la clase base en este caso GerenciadorDescuento tambine podemos observar que dentro de esta clase se observan demaciados ciclos if, este patron tambien ayuda a la dismuncion de ellos. Los principio de diseño que atiende son abierto/cerrado, Liskov, unico e independencia. 
