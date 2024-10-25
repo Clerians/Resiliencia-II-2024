@@ -4,9 +4,9 @@
 
 ### Profesor: Daniel San Martín
 
-Nombre Estudiante: 
+Nombre Estudiante: Clerians Marquez Carvajal 
 
-Rut Estudiante:
+Rut Estudiante: 20.717.942-6
 
 **La evaluación tiene un puntaje total de 90 pts, 60% de exigencia.**
 <hr>
